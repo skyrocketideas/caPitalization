@@ -13,10 +13,3 @@ console.log(thirdLetter);
 console.log(endPart);
 
 console.log(`Your name is : ${firstPart}${thirdLetter}${endPart}`);
-
-// const fullName = "Dave Bloody Brubeck";
-// const firstSpace = fullName.indexOf(" ");
-// const secondSpace = fullName.indexOf(" ", firstSpace + 1);
-// const firstName = fullName.substring(0, firstSpace);
-// const middleName = fullName.substring(firstSpace + 1, secondSpace);
-// const lastName = fullName.substring(secondSpace + 1);

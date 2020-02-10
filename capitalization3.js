@@ -1,6 +1,6 @@
 "use strict";
 
-const firstName = "Alexander";
+const firstName = "Graeme";
 
 const nameLowerCase = firstName.toLowerCase();
 const firstPart = nameLowerCase.substring(0, 2);

@@ -10,4 +10,4 @@ const newFirstName = firstPart + thirdLetter + endPart;
 
 document.querySelector("h2").textContent = newFirstName;
 
-console.log(`Your name is : ${firstPart}${thirdLetter}${endPart}`);
+console.log(`Your name is : ${newFirstName}`);
